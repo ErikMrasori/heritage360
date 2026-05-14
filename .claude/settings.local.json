@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"require\\('dotenv'\\).config\\(\\); require\\('./src/app.js'\\); console.log\\('OK'\\)\")",
+      "Bash(npm install *)"
+    ]
+  }
+}

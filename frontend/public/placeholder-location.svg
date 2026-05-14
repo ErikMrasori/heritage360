@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F5F1EB"/>
+  <rect x="56" y="56" width="1088" height="688" rx="28" fill="#111111"/>
+  <path d="M0 635C185 554 358 526 520 552C717 583 846 699 1200 594V800H0V635Z" fill="#C8102E" fill-opacity="0.18"/>
+  <path d="M148 564C230 479 313 416 395 376C487 331 583 318 690 340C802 363 893 420 1022 533" stroke="#C8102E" stroke-opacity="0.3" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="328" cy="327" r="88" fill="#C8102E" fill-opacity="0.16"/>
+  <circle cx="890" cy="243" r="62" fill="#C8102E" fill-opacity="0.16"/>
+  <rect x="160" y="124" width="220" height="12" rx="6" fill="#C8102E"/>
+  <rect x="160" y="164" width="532" height="24" rx="12" fill="white"/>
+  <rect x="160" y="206" width="462" height="24" rx="12" fill="white" fill-opacity="0.86"/>
+  <rect x="160" y="248" width="352" height="18" rx="9" fill="white" fill-opacity="0.56"/>
+  <path d="M593 293L652 454H822L684 553L741 706L593 611L445 706L502 553L364 454H534L593 293Z" fill="white" fill-opacity="0.08"/>
+  <text x="160" y="656" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">Heritage360</text>
+  <text x="160" y="702" fill="white" fill-opacity="0.7" font-family="Segoe UI, Arial, sans-serif" font-size="24">Image unavailable</text>
+</svg>
